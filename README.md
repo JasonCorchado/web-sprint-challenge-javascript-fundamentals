@@ -37,7 +37,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
        3: In a constructor this is the object being return by the constructor function. 
        4: When ever a call, apply or bind method is used this is defined explicitly.
 5. Why do we need super() in an extended class?
-    A: super() is used to refer to the parent class objects.
+    A: super() is used to refer to the parent class objects and giving the child object the key values.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
